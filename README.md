@@ -27,3 +27,6 @@ Salary: To input the employee's salary information.
 Validation: The form should include validation to ensure that the data entered is in the correct format. For example, email validation to check if it's a valid email address, and salary validation to ensure it's a numeric value within an acceptable range.
 
 Submit the Form: Once all the required information is entered and any validation checks pass, the user can submit the form by clicking a "Submit" or "Save" button.
+
+![Screenshot 2023-09-10 221410](https://github.com/shubham2845/Employee-Management-System/assets/131697566/f91f44b1-97cc-4f61-9c7e-f7cc371ed6b0)
+
