@@ -30,3 +30,15 @@ Submit the Form: Once all the required information is entered and any validation
 
 ![Screenshot 2023-09-10 221410](https://github.com/shubham2845/Employee-Management-System/assets/131697566/f91f44b1-97cc-4f61-9c7e-f7cc371ed6b0)
 
+Adding an "Edit" functionality to allow users to update employee details is a common feature in many applications. Here's how this workflow typically works:
+
+Submission Confirmation: After the user submits the employee information on the "Add Employee" page, they receive a confirmation message and are redirected to the main page or a list of employees. At this point, they can see the newly added employee in the list.
+
+Edit Button: In the list of employees or on the employee details page, there is an "Edit" button associated with each employee record. When the user clicks the "Edit" button for a specific employee, they express their intent to edit that employee's information.
+
+Redirect to Edit Page: Clicking the "Edit" button redirects the user to an "Edit Employee" page. This page is similar to the "Add Employee" page but pre-populated with the existing employee's information for editing.
+
+Edit Employee Information: On the "Edit Employee" page, the user can modify the employee's details, including the name, address, email, phone, and salary. The form fields are pre-filled with the current data to make it easier for the user to make changes.
+
+Validation: Similar to the "Add Employee" form, the "Edit Employee" form should also include validation to ensure that the edited data is in the correct format.
+
