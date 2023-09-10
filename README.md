@@ -10,4 +10,4 @@ Employee Listing: The home page provides a comprehensive table that displays all
 
 Edit and Delete: Each row in the employee table offers quick access to edit and delete functionality. Clicking on either option redirects you to a dedicated page for making changes or removing an employee's record.
 
-![Screenshot 2023-09-10 211101](https://github.com/shubham2845/Employee-Management-System/assets/131697566/4a004d45-6ccd-4802-ade9-d1f526dfb638)
+![Screenshot 2023-09-10 221339](https://github.com/shubham2845/Employee-Management-System/assets/131697566/e9d908df-c5fd-4d92-8e65-9203db9aa11d)
