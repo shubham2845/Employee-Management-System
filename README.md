@@ -38,6 +38,8 @@ Edit Button: In the list of employees or on the employee details page, there is 
 
 Redirect to Edit Page: Clicking the "Edit" button redirects the user to an "Edit Employee" page. This page is similar to the "Add Employee" page but pre-populated with the existing employee's information for editing.
 
+![Screenshot 2023-09-10 221430](https://github.com/shubham2845/Employee-Management-System/assets/131697566/5428133f-febb-46ae-ad4e-eb8ac8d4f7b0)
+
 Edit Employee Information: On the "Edit Employee" page, the user can modify the employee's details, including the name, address, email, phone, and salary. The form fields are pre-filled with the current data to make it easier for the user to make changes.
 
 Validation: Similar to the "Add Employee" form, the "Edit Employee" form should also include validation to ensure that the edited data is in the correct format.
