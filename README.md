@@ -4,6 +4,8 @@ Welcome to the Employee Management System (EMS) repository! This project is desi
 Key Features
 User-Friendly Interface: Our intuitive web-based application ensures that adding and managing employee details is a breeze.
 
+![image](https://github.com/shubham2845/Employee-Management-System/assets/131697566/747ab1b8-f3d1-4a9b-8f32-436068384fac)
+
 Database Integration: EMS seamlessly connects to a database, storing all employee information securely and making it accessible in real-time.
 
 Employee Listing: The home page provides a comprehensive table that displays all employee data, making it easy to review and search for specific employees.
