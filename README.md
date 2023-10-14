@@ -12,8 +12,10 @@ Database Integration: EMS seamlessly connects to a database, storing all employe
 Employee Listing: The home page provides a comprehensive table that displays all employee data, making it easy to review and search for specific employees.
 
 Edit and Delete: Each row in the employee table offers quick access to edit and delete functionality. Clicking on either option redirects you to a dedicated page for making changes or removing an employee's record.
+EMP-Details
 
-![Screenshot 2023-09-10 221339](https://github.com/shubham2845/Employee-Management-System/assets/131697566/e9d908df-c5fd-4d92-8e65-9203db9aa11d)
+![image](https://github.com/shubham2845/Employee-Management-System/assets/131697566/54d77501-febc-48e0-a68d-49e5b7890f3c)
+
 
 
 Click "Add Employee" Button: On the dashboard of your system When a user clicks on it, they express their intent to add a new employee.
